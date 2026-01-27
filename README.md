@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello. My name is Addison Kahn and I am a second year student at Lafayette College pursuing a Bachelor's of Science in both Computer Science and Mathematics. 
+
+How to reach me!
+ - Phone Number: 540-834-6528
+ - Email: kahnan@lafayette.edu
+
+Fun fact: I play D1 Field Hockey while at Lafayette!
 
 <!--
 **kahnan05/kahnan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
