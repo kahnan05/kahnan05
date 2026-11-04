@@ -1,8 +1,10 @@
-Hello. My name is Addison Kahn and I am a second year student at Lafayette College pursuing a Bachelor's of Science in both Computer Science and Mathematics. 
+Hello. My name is Addison Kahn and I am a third year student at Lafayette College pursuing a Bachelor's degree in both Computer Science and Mathematics along with a minor in Data Science. 
 
 How to reach me!
  - Phone Number: 540-834-6528
  - Email: kahnan@lafayette.edu
+
+I am currently working on undergraduate research at Lafayette focusing on multimodal large language models.
 
 Fun fact: I play D1 Field Hockey while at Lafayette!
 
